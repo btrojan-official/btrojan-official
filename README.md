@@ -8,7 +8,7 @@ I'm a **technical high school student** with **4+ years of experience** in softw
 🔧 **Tech Stack:**  
 - **Programming Languages:** Python, JavaScript, TypeScript, PHP, C#, C++, Swift, Kotlin  
 - **Frontend:** React.js, Vue.js, Svelte, Bootstrap, HTML, CSS  
-- **Backend:** Express.js, Flask, FastAPI 
+- **Backend:** Express.js, Flask, FastAPI, PHP, Nest.js 
 - **CMS:** WordPress
 - **AI:** Pytorch, scikit-learn, huggingface, transformers, numpy, Pillow, matplotlib, optuna etc.
 
