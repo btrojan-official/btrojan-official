@@ -3,7 +3,7 @@
 🚀 **Passionate Developer & AI Enthusiast**  
 
 💡 **About Me:**  
-I'm a **technical high school student** with **4+ years of experience** in software development. I build **mobile, desktop, and web applications** using various technologies. My main passion? **Artificial Intelligence & Machine Learning**!  
+I'm an International Olympiad in Artificial Intelligence Team Challenge 1st Place in The World Winner🥇🤖 and a Bronze Medalist 🥉 at Main Contest from Beijing 2025. Also I have **4+ years of experience** in software development. I build **mobile, desktop, and web applications** using various technologies. My main passion? **Artificial Intelligence & Machine Learning**!  
 
 🔧 **Tech Stack:**
 - **AI/ML:** PyTorch, Transformers, Scikit-Learn, OpenCV, Librosa, Pydub, Matplotlib, Seaborn, Numpy, Pandas
